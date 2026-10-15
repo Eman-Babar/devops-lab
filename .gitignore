@@ -1,2 +1,5 @@
+# Generated build output
 out/
+
+# Ignore build log files
 *.log
