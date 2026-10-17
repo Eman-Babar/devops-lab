@@ -3,3 +3,4 @@ out/
 
 # Ignore build log files
 *.log
+*.swp
