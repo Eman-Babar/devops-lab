@@ -1,6 +1,9 @@
 # Generated build output
 out/
 
-# Ignore build log files
+# Ignore log files throughout the repository, including subdirectories
 *.log
+
+# Ignore temporary Vim editor swap files
 *.swp
+*.swo
